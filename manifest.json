@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Period. YouTube ad-blocker",
-  "description": "This extension automatically blocks YouTube ads for your entire session.",
+  "name": "Period. - YouTube ad-blocker",
+  "description": "Chrome Extension that blocks YouTube ads for your entire session,",
   "version": "1.0",
 
   "browser_action": {
