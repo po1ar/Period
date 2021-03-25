@@ -1,0 +1,1 @@
+var l=location;l.href=l.href.replace(l.href, l.href + ".");

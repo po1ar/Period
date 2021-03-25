@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "name": "Period. YouTube ad-blocker",
+  "description": "This extension automatically blocks YouTube ads for your entire session.",
+  "version": "1.0",
+
+  "browser_action": {
+    
+    "default_title": "Period."
+  },
+  "content_scripts": [{
+    "matches": ["https://www.youtube.com/*."],
+    "js": ["popup.js"]
+}],
+  "background":{
+    "scripts":["background.js"]
+  },
+"icons": {
+  "16": "logo.png",
+  "48": "logo-48.png",
+  "128": "logo-128.png"
+},
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+}
