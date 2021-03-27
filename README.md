@@ -1,5 +1,5 @@
 # Period.
-Chrome extension to change url. It will increase a number before a '&' in the active tab url.
+Chrome Extension that blocks YouTube ads without any data collection.
 
 ## Install
 - Download zip and extract
