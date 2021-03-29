@@ -3,7 +3,7 @@
 
   "name": "Period. - YouTube ad-blocker",
   "description": "Chrome Extension that blocks YouTube ads for your entire session,",
-  "version": "1.0",
+  "version": "1.1",
 
   "browser_action": {
     
